@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create a new order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57319581-11df-49f1-b0e5-b558d8f452e2</testCaseGuid>
+   <variable>
+      <defaultValue>'ORDER_20220601_00001'</defaultValue>
+      <description></description>
+      <id>43cd1268-3662-422a-ad74-b5174d8b436a</id>
+      <masked>false</masked>
+      <name>order_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'sample order description'</defaultValue>
+      <description></description>
+      <id>54f549cb-9299-4648-9e73-ef748d276907</id>
+      <masked>false</masked>
+      <name>order_description</name>
+   </variable>
+   <variable>
+      <defaultValue>'1642321210439'</defaultValue>
+      <description></description>
+      <id>ea742a9a-a9be-4876-a667-bf474d987dfa</id>
+      <masked>false</masked>
+      <name>last_updated_timestamp</name>
+   </variable>
+</TestCaseEntity>
